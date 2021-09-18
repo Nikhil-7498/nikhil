@@ -1,0 +1,53 @@
+<div class="row container-fluid">
+  <div class="card col-lg-3">
+    <img class="card-img-top" src="C:\Users\Hp\Desktop\Clearit\Logo.png" alt="">
+    <h3 class="subject"> <a href="#">Physics</a> </h3>
+  </div>
+
+
+
+  <div class="card col-lg-3">
+    <img class="card-img-top" src="C:\Users\Hp\Desktop\Clearit\Logo.png" alt="">
+    <h3 class="subject"> <a href="#">Physics</a> </h3>
+  </div>
+
+  <div class="card col-lg-3">
+    <img class="card-img-top" src="C:\Users\Hp\Desktop\Clearit\Logo.png" alt="">
+    <h3 class="subject"> <a href="#">Chemistry</a> </h3>
+  </div>
+
+  <div class="card col-lg-3">
+    <img class="card-img-top" src="C:\Users\Hp\Desktop\Clearit\Logo.png" alt="">
+    <h3 class="subject"><a href="#">Mathematics</a></h3>
+
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+.card-img-top{
+  height: 150px;
+  width: 400px;
+}
+
+.card {
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow:  0 4px 8px 0;
+  transition: 0.5s;
+}
+.card:hover{
+  box-shadow: 0 4px 16px 4px;
+
+}
+.subject{
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+.landingimage {
+  height: 575px;
+}
+.logo {
+  height : 40px;
+  width: 120px;
+
+}
+
+.login{
+  box-shadow: 0 0 0 0;
+}
+.login:hover{
+  box-shadow: 0 0 12px 0;
+}
+.explore{
+  color: black;
+  box-shadow: 0 0 8px 0;
+  position: relative;
+  left: 40%;
+}
+
+.explore:hover{
+  box-shadow: 0 0 16px 0;
+}
